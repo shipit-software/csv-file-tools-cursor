@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "csv-file-tools": {
+      "url": "https://csvfile.tools/api/csv/mcp"
+    }
+  }
+}
