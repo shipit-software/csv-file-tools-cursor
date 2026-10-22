@@ -1,0 +1,12 @@
+{
+  "name": "csv-file-tools",
+  "displayName": "CSV File Tools",
+  "version": "0.1.0",
+  "description": "Inspect CSV text, filter exact matches, sort literal values, and edit existing cells through a remote MCP server.",
+  "author": { "name": "Shipit Software" },
+  "homepage": "https://csvfile.tools/mcp",
+  "repository": "https://github.com/shipit-software/csv-file-tools-cursor",
+  "license": "MIT",
+  "keywords": ["csv", "data", "mcp", "filter", "sort"],
+  "mcpServers": "mcp.json"
+}
